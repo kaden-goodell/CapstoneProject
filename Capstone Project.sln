@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone Project.CSharp.Plugins", "Capstone Project.CSharp.Plugins.csproj", "{424BD3BF-3F8F-28D6-A907-620A1495C7C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone Project.CSharp", "Capstone Project.CSharp.csproj", "{44E90D6F-8EC5-3EBA-77F0-F803128241FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone Project.CSharp.Editor", "Capstone Project.CSharp.Editor.csproj", "{4834FBAC-5856-8C7D-936A-B4562A2FB961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424BD3BF-3F8F-28D6-A907-620A1495C7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424BD3BF-3F8F-28D6-A907-620A1495C7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424BD3BF-3F8F-28D6-A907-620A1495C7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424BD3BF-3F8F-28D6-A907-620A1495C7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E90D6F-8EC5-3EBA-77F0-F803128241FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E90D6F-8EC5-3EBA-77F0-F803128241FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E90D6F-8EC5-3EBA-77F0-F803128241FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E90D6F-8EC5-3EBA-77F0-F803128241FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4834FBAC-5856-8C7D-936A-B4562A2FB961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4834FBAC-5856-8C7D-936A-B4562A2FB961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4834FBAC-5856-8C7D-936A-B4562A2FB961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4834FBAC-5856-8C7D-936A-B4562A2FB961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
